@@ -26,7 +26,7 @@ This is a fitness tracking App that allow the user to track all the exercise the
 
 # Links
 
-[deployed website](https://mighty-lake-47205.herokuapp.com/)
+[deployed website](https://young-sea-60041.herokuapp.com/)
 
 [Github repository](https://github.com/Snubia/Fitness_Tracker.git)
 
